@@ -1,0 +1,19 @@
+
+html {
+    text-align: center;
+}
+
+
+.title {
+    color: #333333;
+    font-size: 40px;
+    font-family: Helvetica, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.heading {
+    color: #3e593c;
+    font-size: 22px;
+    font-family: Helvetica, Tahoma, sans-serif;
+    font-weight: bold;
+}
