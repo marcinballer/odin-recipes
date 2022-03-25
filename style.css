@@ -3,7 +3,6 @@ html {
     text-align: center;
 }
 
-
 .title {
     color: #333333;
     font-size: 40px;
@@ -16,4 +15,11 @@ html {
     font-size: 22px;
     font-family: Helvetica, Tahoma, sans-serif;
     font-weight: bold;
+}
+
+ul,
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
