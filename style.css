@@ -1,6 +1,7 @@
 
 html {
     text-align: center;
+    background-color: #fcfaf7;
 }
 
 .title {
@@ -22,4 +23,11 @@ ol {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    color: #333333;
+    font-family: Helvetica, Tahoma, sans-serif;
+}
+
+p {
+    color: #333333;
+    font-family: Helvetica, Tahoma, sans-serif;
 }
